@@ -4,13 +4,13 @@ using namespace std;
 
 int  main()
 {
-	int a;
+	int i;
 	
 
-	for(a=10; a>=1; a--)
+	for(i=10; i>=1; i--)
 	{
         
-	cout<<a<<"  ";
+	cout<<i<<"  ";
    
     }
 

@@ -31,7 +31,7 @@ int main()
         {
             if (j > i)
             {
-                sum = sum + a[i][j];
+                sum += a[i][j];
             }
         }
     }

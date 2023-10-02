@@ -9,7 +9,7 @@ int main()
 
 
 	cout<<"Enter The Value = ";
-	cin("%d",&n);
+	cin>>n;
 
 	for(i=1; i<=n; i++)
 	{

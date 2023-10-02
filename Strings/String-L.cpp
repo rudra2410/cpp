@@ -16,7 +16,7 @@ int main()
     for (i = 0; arry[i] != '\0'; i++)
 	{
 	    length = i;
-         cout<<"arry[] value is :  \n" <<  i << arry[i] << "  ";
+        cout<<"arry[] value is :  \n" <<  i << arry[i] << "  ";
 	 
 	}   
 

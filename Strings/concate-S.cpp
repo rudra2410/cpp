@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-	char str1[20] = "Skill", str2[20] = "Code";
+	char str1[40] = "rudra", str2[40] = "sutariya";
 
-	char str3[20];
+	char str3[40];
 
 	int i = 0, j = 0;
 

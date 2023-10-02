@@ -23,7 +23,7 @@ int main()
 		{
 		
 			cout<<a[i][j]<<" ";
-			sum = sum + a[i][j];
+			sum += a[i][j];
 		}
 		cout<<" \n ";		
 	}

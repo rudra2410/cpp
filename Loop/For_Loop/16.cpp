@@ -14,9 +14,10 @@ int main()
 	
     {
 	
-    cout<<sum<<" ";
 	
     sum = sum * 2;
+    
+    cout<<sum<<" ";
 	
     }
 	
