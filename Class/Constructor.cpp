@@ -23,7 +23,7 @@ public:
 
 int  main()
 {
-    Wall Wall0;
+    Wall Wall1;
     return 0;
 }
 
@@ -101,9 +101,9 @@ int main()
 
     Wall Wall2 = Wall1;
 
-    cout<<"Area of a walk 1: "<<Wall1.area()<<endl;
+    cout<<"Area of a wall 1: "<<Wall1.area()<<endl;
 
-    cout<<"Area of a walk 2: "<<Wall2.area();
+    cout<<"Area of a wall 2: "<<Wall2.area();
 
     return 0;
 }

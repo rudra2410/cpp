@@ -9,14 +9,14 @@ private:
     string name, city;
 
 public:
-    void setname(string r)
+    void setname(string n)
     {
-        name = r;
+        name = n;
     }
 
-    void setcity(string u)
+    void setcity(string c)
     {
-        city = u;
+        city = c;
     }
 
     void setage(int a)
@@ -82,4 +82,5 @@ int main()
     p2.getcity();
 
 
+    return 0;
 }

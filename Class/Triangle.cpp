@@ -26,8 +26,8 @@ int main()
     cout << "Enter The Value :";
     cin >> a >> b;
 
-    triangle r1;
-    cout << r1.area(a, b) << endl;
-    cout << r1.circ(a, b);
+    triangle t1;
+    cout << t1.area(a, b) << endl;
+    cout << t1.circ(a, b);
     return 0;
 }

@@ -7,7 +7,7 @@ private:
     int length, height;
 
 public:
-    int i = length, h = height;
+    int l = length, h = height;
 
     int area(int l, int h)
     {
