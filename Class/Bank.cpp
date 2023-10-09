@@ -46,7 +46,7 @@ class bankaccout
         else
         {
             cout << "\n==> YOu Can Withdral";
-        }git 
+        }
         
     }
 };
