@@ -1,1 +1,2 @@
-Arith a3("Deny");
+a1.Func1();
+    // a1.Func2();
