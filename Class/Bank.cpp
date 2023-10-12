@@ -16,18 +16,18 @@ class bankaccout
         balance = b;
         withdral = w;
         total = t;
-    }
+    } 
 
     void balanca()
     {
         int d , b ;
         cout << "----------------------------------------\n";
-        cout << "Your Acoout balance is = 1000";
+        cout << "Your Acoout balance is = 100000";
         cout << "\n";
         cout << "----------------------------------------\n";
         cout << "Enter YOur Deposite =";
         cin  >> d;
-        b = 1000 + d;
+        b = 100000 + d;
         cout << "YOur Total Amout = "<<b;
         cout << "\n--------------------------------------\n";
     }
